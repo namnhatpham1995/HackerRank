@@ -1,4 +1,6 @@
 #Calculate differences in seconds between 2 input time (Hackkerank)
+#Read this link for more info about the function
+#https://www.programiz.com/python-programming/datetime/strptime
 import math
 import os
 import random
